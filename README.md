@@ -10,11 +10,10 @@ The `image_scraper.py` script retrieves HTML content from a specified URL and us
 
 Before running this script, you will need Python installed on your system, along with the `requests` and `BeautifulSoup4` libraries. Python 3.6 or higher is recommended. You can install the necessary libraries using pip:
 
-```bash
 pip install requests beautifulsoup4
 Installation
 To run this script, first clone this repository or download the image_scraper.py file directly.
-git clone https://github.com/your-username/your-repository.git
+git clone (https://github.com/tinkerlev/image_scraper)
 cd your-repository
 
 Usage
