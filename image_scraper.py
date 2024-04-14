@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup  # Import BeautifulSoup from bs4 module for parsin
 
 def find_image_url():
     # Define the URL of the webpage from which to scrape the image URL.
-    url = "https://api.ecomcybercourse3.online/cybercourse7.html"
+    url = "Enter the URL"
     
     # Send an HTTP GET request to the specified URL and store the response.
     response = requests.get(url)
